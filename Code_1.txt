@@ -8,3 +8,9 @@ int b;
 int c;
 
 }
+
+class c: B: A{
+c=a+b;
+
+printf("%s",c);
+}
